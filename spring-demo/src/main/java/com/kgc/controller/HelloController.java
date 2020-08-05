@@ -13,6 +13,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
 
     @Autowired
+
+
     private  Student stu;
 
 
