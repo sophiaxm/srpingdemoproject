@@ -1,0 +1,14 @@
+
+
+#stu:
+#  name: 张三
+#  age: 25
+
+teacher:
+  name: 码云
+  age: 30
+
+
+spring:
+  profiles:
+    active: test #开发环境
