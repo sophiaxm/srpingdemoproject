@@ -10,6 +10,7 @@ public class SpringDemoApplication {
     public static void main(String[] args) {
 	//启动操作
 	// 憋人修改的代码
+        //组员a修改
         SpringApplication.run(SpringDemoApplication.class, args);
     }
 
