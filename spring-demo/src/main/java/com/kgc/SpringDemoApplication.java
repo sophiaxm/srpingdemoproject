@@ -8,7 +8,7 @@ import org.springframework.context.annotation.PropertySource;
 @PropertySource("classpath:/myconfig/myconfig.properties")
 public class SpringDemoApplication {
     public static void main(String[] args) {
-	//启动xm
+	//启动xm 1115
         SpringApplication.run(SpringDemoApplication.class, args);
     }
 
